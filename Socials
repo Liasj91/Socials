@@ -170,7 +170,7 @@
           window.open("https://www.linkedin.com/", '_blank').focus(); //Add the url to your pinterest account
         }
         else if (id === "twitter") {
-          window.open("Https://www.youtube.com/@openchainhq", '_blank').focus(); //Add the url to your pinterest account
+          window.open("https://x.com/i/flow/login?redirect_after_login=%2Fopenchainhq", '_blank').focus(); //Add the url to your pinterest account
         }
         else if (id === "reddit") {
           window.open("https://www.reddit.com/", '_blank').focus(); //Add the url to your reddit account
